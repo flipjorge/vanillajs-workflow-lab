@@ -1,0 +1,18 @@
+{
+  "name": "vanilla-js-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Making a vanilla js project from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipjorge/vanillajs-workflow-lab.git"
+  },
+  "keywords": [],
+  "author": "Filipe Jorge",
+  "license": "MIT",
+  "homepage": "https://github.com/flipjorge/vanillajs-workflow-lab#readme",
+}
