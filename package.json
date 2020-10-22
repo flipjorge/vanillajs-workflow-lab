@@ -14,5 +14,9 @@
   "keywords": [],
   "author": "Filipe Jorge",
   "license": "MIT",
-  "homepage": "https://github.com/flipjorge/vanillajs-workflow-lab#readme"
+  "homepage": "https://github.com/flipjorge/vanillajs-workflow-lab#readme",
+  "devDependencies": {
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0"
+  }
 }
